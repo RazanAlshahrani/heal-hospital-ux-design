@@ -35,7 +35,7 @@ This was a group project. My contributions included:
 - Usability testing
 
 ## Project Report
-[View the project report](./heal-hospital-project-report.pdf.pdf)
+[View the project report](https://github.com/RazanAlshahrani/heal-hospital-ux-design/blob/main/heal-hospital-project-report.pdf)
 
 ## Interactive Prototype
 [Explore the Figma prototype](https://www.figma.com/proto/VE5fXH6vHOTae5KkDH9uKu/Figmabasics?node-id=601-9&t=ttM6ek5qELCjVA7G-1)
