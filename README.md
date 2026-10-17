@@ -1,4 +1,4 @@
-# Heal Hospital — Appointment Booking UX Design
+# Heal Hospital - Appointment Booking UX Design
 
 ## Overview
 Heal Hospital is a university Human–Computer Interaction (HCI) group project focused on designing a mobile app for hospital appointment booking.
